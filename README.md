@@ -62,7 +62,7 @@ curl -X POST "http://127.0.0.1:8000/predict" \
   -F "file=@sample.jpg"
 ```
 
-응답 예시:
+응답 예시: 
 
 ```json
 {
